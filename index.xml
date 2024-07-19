@@ -6,6 +6,88 @@
     <description>Recent content on Raghu&#39;s Portfolio</description>
     <generator>Hugo -- 0.124.1</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jul 2024 09:42:19 +0530</lastBuildDate>
     <atom:link href="https://raghu.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wall of Fame</title>
+      <link>https://raghu.io/testimonials/</link>
+      <pubDate>Fri, 19 Jul 2024 09:42:19 +0530</pubDate>
+      <guid>https://raghu.io/testimonials/</guid>
+      <description>I am thankful for the DevSpecOps classes by Raghunath. Being a Pen-Tester, these DevSpecOps classes gave me more insight into the critical importance of security in both DevOps. The classes were interactive and my doubts were well received and cleared. The practical classes were highly informative and gave me hands-on experience in the topic. I&amp;#39;m glad that I took the classes from Mr. Raghunath from Eracorp. — Arvind Valugonda</description>
+      <content:encoded><![CDATA[<blockquote>
+<p>I am thankful for the DevSpecOps classes by Raghunath. Being a Pen-Tester, these DevSpecOps classes gave me more insight into the critical importance of security in both DevOps. The classes were interactive and my doubts were well received and cleared. The practical classes were highly informative and gave me hands-on experience in the topic. I&#39;m glad that I took the classes from Mr. Raghunath from Eracorp. — Arvind Valugonda</p>
+</blockquote>
+<blockquote>
+<p>We are very much thankful to you for being the Resource Person and expertise for Online certificate program on &#34;Excellence in Cyber Security&#34; organized by Centre of Excellence in Cyber Security, JNTUH. — Dr R.Sridevi, Coordinator, COE in CyberSecurity, JNTUH</p>
+</blockquote>
+<blockquote>
+<p>I completed my DevSecops here in September 2022 when DevSecops was still rather new in many companies. This course offers a unique rich program in skills that are highly sought after today. I had a wonderful experience with highly trained and helpful trainer Raghu, who is a leader in this field and went out of his way to make sure I understood the how and why of our training. I came with a security background looking to learn security implementation in DevOps (training that is not easy to find) and I successfully learned with the ability to implement security in the DevOps pipeline and have a stronger understanding of many concepts in DevOps. — Naveen Yellani</p>
+</blockquote>
+<blockquote>
+<p>Appreciate the partnership in customizing the course rightly to meet our needs well. Very professional, supportive and effective. Thanks for the support and looking forward to the next session.  — Amlan sahoo</p>
+</blockquote>
+<blockquote>
+<p>Raghu is an excellent trainer, He explained the devsecops big picture and cleared my doubts , I feel more confident about configuring clients security pipeline with the notes provided by Raghu. — Nikhil Parsutkar</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>https://raghu.io/about/</link>
+      <pubDate>Fri, 19 Jul 2024 09:36:49 +0530</pubDate>
+      <guid>https://raghu.io/about/</guid>
+      <description>Thanks for checking out!
+I help SME&amp;#39;s securing their business critical applications. Utilizing my broad level of knowledge about the multiple domains like Web Application Security, Network Security, DevSecOps, Cloud, Threat Modeling, Secure Coding, Secure Design, GNU/Linux expertise in crafting customized solutions for client. Past i have worked with various MNC companies as a security consultant. Currently, pursuing on challenge to implement application security best practices for SME&amp;#39;s at scale through information security consulting services.</description>
+      <content:encoded><![CDATA[
+<p>
+Thanks for checking out!</p>
+<p>
+I help SME&#39;s securing their business critical applications. Utilizing my broad level of knowledge about the multiple domains like Web Application Security, Network Security, DevSecOps, Cloud, Threat Modeling, Secure Coding, Secure Design, GNU/Linux expertise in crafting customized solutions for client. Past i have worked with various MNC companies as a security consultant. Currently, pursuing on challenge to implement application security best practices for SME&#39;s at scale through information security consulting services.</p>
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+Ongoing Projects:
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
+<div id="outline-container-headline-2" class="outline-3">
+<h3 id="headline-2">
+<a href="https://eracorp.io">Eracorp Technologies</a>:
+</h3>
+<div id="outline-text-headline-2" class="outline-text-3">
+<p>
+Remotely operated consulting firm based out of Hyderabad, India. Which offers cloud security, web penetration testing and devsecops consulting services.  </p>
+</div>
+</div>
+<div id="outline-container-headline-3" class="outline-3">
+<h3 id="headline-3">
+<a href="https://securityarray.io">SecurityArray</a>:
+</h3>
+<div id="outline-text-headline-3" class="outline-text-3">
+<p>
+Another project where i will be sharing my security knowledge with community and learn more about the application security.</p>
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-headline-4" class="outline-2">
+<h2 id="headline-4">
+Past Training&#39;s and presentations:
+</h2>
+<div id="outline-text-headline-4" class="outline-text-2">
+<div id="outline-container-headline-5" class="outline-3">
+<h3 id="headline-5">
+DevSecOps:
+</h3>
+<div id="outline-text-headline-5" class="outline-text-3">
+<ul>
+<li><a href="https://www.blackhat.com/us-19/training/schedule/#practical-devsecops----continuous-security-in-the-age-of-cloud-13992">https://www.blackhat.com/us-19/training/schedule/#practical-devsecops----continuous-security-in-the-age-of-cloud-13992</a></li>
+<li><a href="https://appseceurope2018a.sched.com/event/Ek0J/3-day-training-practical-devsecops-continuous-security-in-the-age-of-cloud">https://appseceurope2018a.sched.com/event/Ek0J/3-day-training-practical-devsecops-continuous-security-in-the-age-of-cloud</a></li>
+<li><a href="https://archive.nullcon.net/website/archives/bangalore-2018.php">Practical DevSecOps - Banglore 2018</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+]]></content:encoded>
+    </item>
   </channel>
 </rss>
